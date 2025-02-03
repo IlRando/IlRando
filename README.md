@@ -28,7 +28,7 @@ Alguien que stremea, estudia administración y marketing, pero que también prog
 </div>
 
   
-# ¡Otras formas de conectar conmigo!
+## 🌐 ¡Otras formas de conectar conmigo!
 
 <a href="https://www.twitch.tv/RandoMaik" target="_blank">
     <img alt="¡Sígueme en Twitch!" src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"/>
