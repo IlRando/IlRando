@@ -21,8 +21,8 @@ Alguien que stremea, estudia administración y marketing, pero que también prog
 
 ## 📊 ¡Mis stats de GitHub!
 
-<img height="180px" src="https://github-readme-stats.vercel.app/api?username=IlRando&show_icons=true&theme=merko&hide_rank=true&bg_color=90,000000,1C2600"/>
-<img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IlRando&layout=compact&theme=merko&card_width=495&bg_color=90,000000,273500"/>
+<img height="180px" src="https://github-readme-stats.vercel.app/api?username=IlRando&show_icons=true&hide_rank=true&bg_color=0,000000,0073B7&title_color=00B4D8&icon_color=0077B6&text_color=FFF&border_color=0077B6&disable_animations=false"/>
+<img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IlRando&layout=compact&card_width=495&bg_color=0,000000,0073B7&title_color=00B4D8&icon_color=0077B6&text_color=FFF&border_color=0077B6&disable_animations=false"/>
   
 ## 🌐 ¡Otras formas de conectar conmigo!
 
